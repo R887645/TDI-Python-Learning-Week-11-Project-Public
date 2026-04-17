@@ -1,8 +1,9 @@
 # Week 11: Exploratory Data Analysis (EDA) & Supply Chain Insights  
 
-In this Week 11 project, my learning advanced from individual visualization techniques into a **complete Exploratory Data Analysis (EDA)**. The focus was on systematically exploring the supply chain dataset — analyzing distributions, relationships, anomalies, and supplier/product performance.  
+In this Week 11 project, my learning advanced from individual visualization techniques into a **complete Exploratory Data Analysis (EDA)**. The focus was on systematically exploring the supply chain dataset, analyzing distributions, relationships, anomalies, and supplier/product performance.  
 
 Where Week 10 emphasized advanced chart types, Week 11 was about **bringing everything together**: univariate, bivariate, and multivariate analysis, anomaly detection, and a polished report that leadership could use to understand risks and opportunities.  
+
 
 ---
 
@@ -19,7 +20,9 @@ Where Week 10 emphasized advanced chart types, Week 11 was about **bringing 
 
 ### 1️⃣ Univariate Analysis  
 - Histograms, violin plots, and box plots to understand distributions of cost, quantity, lead times, and delivery days  
-- Found skewed cost distribution, common order sizes, and outlier lead times  
+- Found skewed cost distribution, common order sizes, and outlier lead times 
+
+![My Image](https://github.com/R887645/TDI-Python-Learning-Week-11-Project-Public/blob/main/Task%201A.png?raw=true)
 
 ### 2️⃣ Bivariate Analysis  
 - Scatter plots of **quantity vs cost** and **lead time vs delivery days**  
@@ -27,6 +30,9 @@ Where Week 10 emphasized advanced chart types, Week 11 was about **bringing 
 - Box plots of **product category vs cost**  
 - Violin plots of **delivery speed vs cost**  
 - Revealed strong cost‑quantity correlation, supplier reliability differences, and speed‑cost trade‑offs  
+
+
+![My Image](https://github.com/R887645/TDI-Python-Learning-Week-11-Project-Public/blob/main/tASK%202A.png?raw=true)
 
 ### 3️⃣ Multivariate Analysis  
 - Correlation heatmap of all numeric variables  
@@ -52,9 +58,9 @@ This project showed me how **EDA transforms raw data into actionable insights**:
 - Bivariate analysis revealed correlations and trade‑offs  
 - Multivariate analysis tied together supplier, product, and operational perspectives  
 - Anomaly detection highlighted risks and data quality issues  
-- The final report communicated findings in a way leadership can act on  
+- The final report communicated findings in a way that leadership can act on  
 
 ---
 
 ## 🔗 View the Full Project  
-👉 [View my Week 11 full project on GitHub](https://github.com/R887645/TDI-Python-Learning-Week-11-Project/blob/main/Week11_EDA_Report.ipynb)
+👉 [View my Week 11 full project on GitHub](https://github.com/R887645/TDI-Python-Learning-Week-11-Project-Public/blob/main/Week11_PersonalDataOrganizer%20(1).ipynb)
